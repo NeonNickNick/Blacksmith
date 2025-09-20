@@ -1,0 +1,3 @@
+D:/Code/test/head/mystring/cmake-build-debug/CMakeFiles/mystring.dir
+D:/Code/test/head/mystring/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Code/test/head/mystring/cmake-build-debug/CMakeFiles/rebuild_cache.dir

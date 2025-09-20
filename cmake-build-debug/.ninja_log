@@ -1,0 +1,25 @@
+# ninja log v6
+4	1832	7799918749966939	CMakeFiles/demo.dir/main.c.obj	744ab450c79cfc00
+1837	2909	7799918768300237	demo.exe	2c1ce25115b39333
+1	182	7799919775239005	build.ninja	830de73cf384e425
+9	1824	7799918750012393	CMakeFiles/demo.dir/head/skill/skill.c.obj	50e302e96735ad3b
+8	131	7659153959322514	CMakeFiles/demo.dir/library.c.obj	e2df3116f5c63efe
+8	422	7659163816813822	CMakeFiles/demo.dir/skill.c.obj	6b01c0e136ff9c3d
+12	1818	7799918750044900	CMakeFiles/demo.dir/head/text/text.c.obj	5f46ffa369862690
+15	1821	7799918750078974	CMakeFiles/demo.dir/head/constant/constant.c.obj	143f795dbe075982
+18	1822	7799918750110349	CMakeFiles/demo.dir/head/mystring/mystring.c.obj	a1ad113eec0c8508
+23	1822	7799918750165792	CMakeFiles/demo.dir/head/realrandom/realrandom.c.obj	182aca595199017c
+28	1820	7799918750201512	CMakeFiles/demo.dir/head/connect/connect.c.obj	3d9ae57d5f020ee0
+32	1837	7799918750246708	CMakeFiles/demo.dir/resource.rc.obj	8c95a945989489be
+28	90	7799919798364547	CMakeFiles/demo.dir/resource.rc.obj	e91371063deb136e
+11	93	7799919798195689	CMakeFiles/demo.dir/head/text/text.c.obj	6b335d38f0ad8eb3
+15	99	7799919798231041	CMakeFiles/demo.dir/head/constant/constant.c.obj	f27a0e659838608d
+25	109	7799919798330512	CMakeFiles/demo.dir/head/connect/connect.c.obj	77523b21630f5e5a
+19	117	7799919798265740	CMakeFiles/demo.dir/head/mystring/mystring.c.obj	c84616557103582a
+8	149	7799919798165120	CMakeFiles/demo.dir/head/skill/skill.c.obj	3308833e3073f11e
+22	863	7799919798298408	CMakeFiles/demo.dir/head/realrandom/realrandom.c.obj	12febe67aa8c607b
+5	1013	7799919798118688	CMakeFiles/demo.dir/main.c.obj	31105da96e7c1bdd
+1013	1160	7799919808205493	demo.exe	45c4cdaa3d510b5
+14	1219	7799923358741430	CMakeFiles/demo.dir/head/realrandom/realrandom.c.obj	12febe67aa8c607b
+8	1379	7799923358675800	CMakeFiles/demo.dir/main.c.obj	31105da96e7c1bdd
+1379	1542	7799923372380505	demo.exe	45c4cdaa3d510b5
